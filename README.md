@@ -1,8 +1,8 @@
 # 스티커 불량 검출 시스템
 
-[Jetson NANO 초기 설정](https://github.com/happysun7080/StickerDefectDetection/blob/main/SETUP.md)
+[Jetson NANO 초기 설정](https://github.com/HoJun-Song/StickerDefectDetection/blob/main/SETUP.md)
 
-[2022 KCSE 학술대회](https://github.com/happysun7080/StickerDefectDetection/blob/main/KCSE2022.md)
+[2022 KCSE 학술대회](https://github.com/HoJun-Song/StickerDefectDetection/blob/main/KCSE2022.md)
 
 ## 소개
 
