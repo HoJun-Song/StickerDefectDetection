@@ -1,8 +1,8 @@
 # 스티커 불량 검출 시스템
 
-[Jetson NANO 초기 설정](https://www.notion.so/Jetson-NANO-7d6e530a6862463a9a016eac200404ac)
+[Jetson NANO 초기 설정](https://github.com/happysun7080/StickerDefectDetection/blob/main/SETUP.md)
 
-[2022 KCSE 학술대회](https://www.notion.so/2022-KCSE-2bd5d83f7f7f4eec8673206ab0b42b26)
+[2022 KCSE 학술대회](https://github.com/happysun7080/StickerDefectDetection/blob/main/KCSE2022.md)
 
 ## 소개
 
@@ -48,13 +48,9 @@ OpenCV를 활용한 라이터의 불량 사례 중 하나인 스티커 부착 �
 
 ## 환경
 
-| 하드웨어 | Nvidia Jetson Nano B01
-Rasberry Pi HQ Camera 12.3MP
-16mm Telephoto Lens for Raspberry Pi HQ Camera |
-| --- | --- |
-| 소프트웨어 | Nvidia JetPack 4.4.1
-OpenCV 4.5.0
-Python 3.8.9 |
+| 하드웨어 | 소프트웨어 |
+| :---: | :---: |
+| Nvidia Jetson Nano B01 </br> Rasberry Pi HQ Camera 12.3MP </br> 16mm Telephoto Lens for Raspberry Pi HQ Camera | Nvidia JetPack 4.4.1 </br> OpenCV 4.5.0 </br> Python 3.8.9 |
 
 ## 결과
 
